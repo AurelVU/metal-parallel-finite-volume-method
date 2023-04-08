@@ -1,4 +1,0 @@
-/Users/vladimirusakov/CLionProjects/test_cpp_metal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/vladimirusakov/CLionProjects/test_cpp_metal/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vladimirusakov/CLionProjects/test_cpp_metal/cmake-build-debug/CMakeFiles/METAL_CPP_2.dir
-/Users/vladimirusakov/CLionProjects/test_cpp_metal/cmake-build-debug/CMakeFiles/METAL_CPP.dir
