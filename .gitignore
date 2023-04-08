@@ -1,2 +1,5 @@
 /a.out
-/metal-cpp/
+metal-cpp
+.idea
+.DS_Store
+cmake-build-debug
